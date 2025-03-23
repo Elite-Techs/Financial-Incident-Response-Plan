@@ -30,10 +30,10 @@ Phishing remains one of the **top threats** in the financial sector, leading to 
 Have suggestions or want to improve this guide? Feel free to **open an issue or submit a pull request!**  
 
 📥 **Download the PowerPoint Presentation:**  
-   [**UBTH_Ransomware_Incident_Response.pptx**](./UBTH_Ransomware_Incident_Response.pptx)
+   [**XYZ Bank – Phishing Attack Incident Report.pptx**](./XYZ Bank – Phishing Attack Incident Report.pptx)
    
 
-📌 **Maintained by:** [Your Name / GitHub Handle]  
+📌 **Maintained by:** [Prince Richard /(https://github.com/Elite-Techs)]  
 📌 **License:** MIT License (Feel free to use and modify)  
 
 ---
