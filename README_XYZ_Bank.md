@@ -30,7 +30,7 @@ Phishing remains one of the **top threats** in the financial sector, leading to 
 Have suggestions or want to improve this guide? Feel free to **open an issue or submit a pull request!**  
 
 📄 **View Financial Incident Response Plan:**  
-[View the Financial Incident Response Plan](https://github.com/Elite-Techs/Financial-Incident-Response-Plan/blob/main/README_XYZ_Bank.md)
+[View the Financial Incident Response Plan](https://github.com/Elite-Techs/Financial-Incident-Response- Plan/blob/main/Financial_Incident_Response_Plan.md)
 
 📥 **Download the PowerPoint Presentation:**  
 [**Download XYZ Bank – Phishing Attack Incident Report.pptx**](https://github.com/Elite-Techs/Financial-Incident-Response-Plan/raw/main/XYZ%20Bank%20-%20Phishing%20Attack%20Incident%20Report.pptx)
